@@ -1,0 +1,2 @@
+# Course-Planner
+Allows a student to register for an account and login. Allows the student to create a course schedule for a semester. Keeps track of assignments entered in by student for each course and allows a grade to be entered upon completion of the assignment. Student can input grade weights for individual courses and view the calculated grade according to those weights and the grades of the assignments they have entered for the course.
